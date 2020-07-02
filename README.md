@@ -9,7 +9,8 @@ computed via K-means on a subset of images from amazon.
 Data:
 
 *_SURF_L10.mat:    features and labels related to Office-Caltech-10
-PIE*.mat: features and labels related to PIE dataset
+
+PIE*.mat:    features and labels related to PIE dataset
 
 Motivation:
 

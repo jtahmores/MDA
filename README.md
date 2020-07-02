@@ -1,5 +1,6 @@
 # MDA
 Multi-source domain adaptation for image classification
+
 This package contains the data and code used in multi-source domain adaptation for image classification (MDA), which is published at Machine Vision and Applications (2020).
 You can download the paper from: "https://doi.org/10.1007/s00138-020-01093-2". 
 
